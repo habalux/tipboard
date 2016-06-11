@@ -15,9 +15,9 @@ body {
     background: #1c1d1f;
     color: #c7cbd2;
     font-family:'misolight',"Trebuchet MS", Arial, sans-serif;
-    min-width: 1024px;
+    min-width: 800px;
     width: 100%;
-    min-height: 768px;
+    min-height: 480px;
     -webkit-font-smoothing: antialiased;
 }
 
