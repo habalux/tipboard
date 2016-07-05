@@ -15,9 +15,10 @@ body {
     background: #1c1d1f;
     color: #c7cbd2;
     font-family:'misolight',"Trebuchet MS", Arial, sans-serif;
-    min-width: 800px;
+    min-width: 305px;
     width: 100%;
-    min-height: 480px;
+    min-height: 225px;
+    overflow: hidden;
     -webkit-font-smoothing: antialiased;
 }
 
