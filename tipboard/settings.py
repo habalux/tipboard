@@ -101,6 +101,7 @@ TIPBOARD_CSS_STYLES = [
     'css/reset.css',
     'css/jquery.jqplot.css',
     'css/layout.css',
+    'css/weather-icons.css',
 ]
 TIPBOARD_JAVASCRIPTS = [
     'js/lib/jquery.js',
